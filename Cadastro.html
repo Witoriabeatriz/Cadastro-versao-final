@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Cadastro</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src='Cadastro.js'></script>
+    <link rel="stylesheet" href="Campeonato.css">
+</head>
+<style>
+    img {
+        width: 400px; 
+        margin: auto;
+        display: block;
+    } 
+    .imagem{ 
+        background-color: #003664;
+    }  
+    label{
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 1.5;
+    }
+</style>
+<body>
+    <div class="imagem">
+        <br>
+        <img src="logos.jpg" alt="Notbook">
+        </div>
+        <div class="container">
+            <br>
+            <form class="form-cadastro">
+            <label id="Nome">Nome:</label>
+            <input class="form-control" id="participantes" type="text">
+            <br><br>
+            <label id="Email">Email:</label>
+            <input class="form-control" id="loginemail" type="text">
+            <br><br>
+            <label id="Senha">Senha:</label>
+            <input class="form-control" id="loginsenha" type="password">
+            <br><br>
+            <label id="repetindosenha">Confirmar Senha:</label>
+            <input class="form-control" id="confirmarsenha" type="password" >
+            <br><br>
+            <label id="CPF">CPF:</label>
+            <input class="form-control" id="identificacao" type="text" maxlength="11">
+            <br><br>
+            <label id="">RG:</label>
+            <input class="form-control" id="rg" type="text" maxlength="9">
+            <br><br>
+            <label id="cep">Cep:</label>
+            <input class="form-control" id="Cep" type="text" maxlength="8" onblur="buscarCep()">
+            <br><br>
+
+            <label id="endereco">Rua:</label>
+            <input class="form-control" id="rua" type="text">
+            <br><br>
+            <label id="numeracao">Numero:</label>
+            <input class="form-control" id="numero" type="text">
+            <br><br>
+            <label id="bairro">Bairro:</label>
+            <input class="form-control" id="Bairro" type="text">
+            <br><br>
+            <label id="estado">Estado:</label>
+            <input class="form-control" id="Estado" type="text">
+            <br><br>
+            <label id="cidade">Cidade:</label>
+            <input class="form-control" id="Cidade" type="text">
+            <br><br>
+            <label id="complementacao">Complemento:</label>
+            <input class="form-control" id="complemento" type="text">
+            <br><br>
+            <button onclick="Verifica(); return false;" class="btn btn-primary">ACESSAR</button>
+            <br><br><br>
+            </form>
+            </div>
+</body>
+</html>

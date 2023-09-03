@@ -1,0 +1,58 @@
+body {
+    background: #003664;
+}
+
+.container {
+    background: #003664;
+}
+th, td{
+    color: #003664;
+}
+table{
+    background-color: white;
+}
+.btnExcluir{
+    background-color:#003664;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+}
+.btnEditar{
+    background-color:#0B5ED7;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+}
+
+h1{
+    color: white;
+    align-items: center;
+    position: relative;
+    left: 45%;
+    font-size: 50px;
+    font-weight: 600; 
+    line-height: 2;
+}
+
+
+
+input{
+    background-color: white;
+}
+
+#loginEmail, #loginSenha{
+    background-color: white;
+}
+
+label{
+    color: #ffffff;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 1.5;
+}
