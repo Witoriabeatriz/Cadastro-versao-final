@@ -20,4 +20,4 @@ Projeto para solucionar problema de inscrições para campeonatos de corrida
 
 * Excluir<img src="imgs/excluindo.gif">  
 
-<img src="imgs/cadastro.gif">  
+
