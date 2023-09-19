@@ -1,17 +1,16 @@
 # Cadastro versão final
 Projeto para solucionar problema de inscrições para campeonatos de corrida 
 
-# Parte 1
+## Cadastro
 
 
 
 
 
 
-# Parte 2
+## Login
 
 
 
 
-
-# Parte 3
+## Inscrições
