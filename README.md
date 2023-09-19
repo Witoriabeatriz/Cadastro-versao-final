@@ -1,8 +1,8 @@
 # Cadastro versão final
 Projeto para solucionar problema de inscrições para campeonatos de corrida 
 
-## Cadastro
-* Cadastrar <img src="imgs/cadastro.gif">  
+## Cadastro  
+<img src="imgs/cadastro.gif">  
 
 * Preenchimento automático <img src="imgs/cep.gif">  
 
@@ -10,8 +10,8 @@ Projeto para solucionar problema de inscrições para campeonatos de corrida
 
 
 
-## Login
-* logar <img src="imgs/login.gif">  
+## Login  
+<img src="imgs/login.gif">  
 
 
 
