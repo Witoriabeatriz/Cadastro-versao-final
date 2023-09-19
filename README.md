@@ -1,7 +1,7 @@
 # Cadastro versão final
-Projeto criado para solucionar problemas de inscrições para campeonatos de corrida 
- **Observação:** Confira a versão primária [aqui](https://witoriabeatriz.github.io/Cadastro-versao-primaria/)
+Com base na experiência e conhecimento adquirido na [versão primária](https://witoriabeatriz.github.io/Cadastro-versao-primaria/) deste projeto, em busca da inovação consegui a evolução e aprimoramento do código, fazendo um * para solucionar problemas de inscrições para campeonatos de corrida 
 
+ **Observação:** 
 ## Cadastro    
 
 <img src="imgs/cadastro.gif">
