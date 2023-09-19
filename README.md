@@ -18,4 +18,6 @@ Projeto para solucionar problema de inscrições para campeonatos de corrida
 ## Inscrições
 * Editar <img src="imgs/editando.gif">  
 
-* Excluir<img src="imgs/excluindo.gif">
+* Excluir<img src="imgs/excluindo.gif">  
+
+<img src="imgs/cadastro.gif">  
