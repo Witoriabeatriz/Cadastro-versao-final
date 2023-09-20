@@ -6,7 +6,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 ## Cadastro
 * Cadastrar   
-<img src="imgs/cadastro.gif">     
+    
 
 * Preenchimento automático <img src="imgs/cep.gif">  
 
