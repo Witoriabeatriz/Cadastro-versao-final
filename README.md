@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-## README EM CONSTRUÇÃO   
 
-## Cadastro
-* Cadastrar   
-
-
-
-
-<img src="imgs/cadastro.gif">    
-
-      
-=======
 ## README EM CONSTRUÇÃO     
 
 ## 🥇 Inscrições de campeonato 
@@ -20,7 +8,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 ## Cadastro
 * Cadastrar   
     
->>>>>>> fa929c1345747929f21ef3f05a9b780545732000
+
 
 * Preenchimento automático <img src="imgs/cep.gif">  
 
