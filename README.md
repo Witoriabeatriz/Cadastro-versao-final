@@ -2,7 +2,14 @@
 Projeto para solucionar problema de inscrições para campeonatos de corrida 
 
 ## Cadastro
-* Cadastrar <img src="imgs/cadastro.gif">  
+* Cadastrar   
+
+
+
+
+<img src="imgs/cadastro.gif">    
+
+      
 
 * Preenchimento automático <img src="imgs/cep.gif">  
 
