@@ -7,10 +7,15 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 ## Cadastro
 
+<img src="imgs/cadastro.gif">
+
+
 
 ## Cep
 
 <img src="imgs/cep.gif">  
+
+
 
 ## Login  
 
