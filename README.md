@@ -8,14 +8,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 * Cadastrar   
 <img src="imgs/cadastro.gif">     
 
-<img src="imgs/cadastro.gif">
-
-
 * Preenchimento automático <img src="imgs/cep.gif">  
-
-
-
-
 
 ## Login  
 <img src="imgs/login.gif">  
