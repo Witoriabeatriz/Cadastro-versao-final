@@ -11,7 +11,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 * Preenchimento automático <img src="imgs/cep.gif">  
 
 ## Login  
-<img src="imgs/login.gif">  
+
 
 
 
