@@ -11,9 +11,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 
 
-## Cep
 
-<img src="imgs/cep.gif">  
 
 
 
