@@ -6,20 +6,19 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 
 ## Cadastro
-* Cadastrar   
-    
 
-
-* Preenchimento automático <img src="imgs/cep.gif">  
+<img src="imgs/cep.gif">  
 
 ## Login  
+
 <img src="imgs/login.gif">
 
 
 
 ## Inscrições
-* Editar <img src="imgs/editando.gif">  
 
-* Excluir<img src="imgs/excluindo.gif">  
+ <img src="imgs/editando.gif">  
+
+<img src="imgs/excluindo.gif">  
 
 
