@@ -23,6 +23,8 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 ## Inscrições
 
+<img src="imgs/inscricao.gif">  
+
 <img src="imgs/editando.gif">  
 
 <img src="imgs/excluindo.gif">  
