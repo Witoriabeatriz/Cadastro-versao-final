@@ -25,8 +25,8 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 <img src="imgs/inscricao.gif">  
 
-<img src="imgs/editando.gif">  
+<img src="imgs/editar.gif">  
 
-<img src="imgs/excluindo.gif">  
+<img src="imgs/excluir.gif">  
 
 
