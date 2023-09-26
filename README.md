@@ -34,10 +34,16 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 ## 🛠️ Composição do projeto 
 
-## 🤖 Tecnologias utilizadas
-
-## ⌨ Ferramentas utilizadas
-
+## 🤖 Tecnologias utilizadas  
+- HTML5;
+- CSS;
+- JAJASCRIPT.
+  
+## ⌨ Ferramentas utilizadas  
+- GIT; 
+- GIT HUB;
+- VISUAL STUDIO CODE.
+  
 ## ✔ Instruções de uso
 
 ## 👾 Funcionalidades
