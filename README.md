@@ -37,7 +37,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 ## 🤖 Tecnologias utilizadas  
 - HTML5;
 - CSS;
-- JAJASCRIPT.
+- JAVASCRIPT.
   
 ## ⌨ Ferramentas utilizadas  
 - GIT; 
