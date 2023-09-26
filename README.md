@@ -6,25 +6,25 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 📈 ÍNDICE
 
-* [Capa do projeto]()
+* [Capa do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#capa-do-projeto)
 
-* [Sobre o projeto]()
+* [Sobre o projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-projeto)
   
-* [Recursos]()
+* [Recursos](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos)
 
-* [Composição do projeto]()
+* [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)
 
-* [Tecnologias utilizadas]()
+* [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
 
-* [Ferramentas utilizadas]()
+* [Ferramentas utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-ferramentas-utilizadas)
 
-* [Instruções de uso]()
+* [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-final#-instru%C3%A7%C3%B5es-de-uso)
   
-* [Funcionalidades]()
+* [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final#-funcionalidades)
 
-* [Fontes consultadas]()  
+* [Fontes consultadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-fontes-consultadas)  
 
-* [Autor]()  
+* [Autor](https://github.com/Witoriabeatriz/Cadastro-versao-final#-autor)  
 
  ##  Capa do projeto
 
@@ -38,7 +38,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 ## ⌨ Ferramentas utilizadas
 
-## ✔ Instruções de Uso
+## ✔ Instruções de uso
 
 ## 👾 Funcionalidades
 
