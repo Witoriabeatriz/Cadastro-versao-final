@@ -26,7 +26,8 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 * [Autor](https://github.com/Witoriabeatriz/Cadastro-versao-final#-autor)  
 
- ##  Capa do projeto
+ ## 🖥️ Capa do projeto
+ <img src="imgs/capa.png">  
 
 ## 📌 Sobre o projeto 
 
