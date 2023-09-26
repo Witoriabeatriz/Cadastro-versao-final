@@ -33,6 +33,25 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 ## 📝 Recursos
 
 ## 🛠️ Composição do projeto 
+## 1. Cadastro
+
+<img src="imgs/cadastro.gif">  
+
+## 2. Login  
+
+<img src="imgs/login.gif">  
+
+## 3. Inscrições
+
+<img src="imgs/inscricao.gif"> 
+
+## 4. Função de editar e excluir
+<img src="imgs/editar.gif">  
+
+<img src="imgs/excluir.gif">
+
+
+
 
 ## 🤖 Tecnologias utilizadas  
 - HTML5;
@@ -49,35 +68,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 ## 👾 Funcionalidades
 
 ## 🔗 Fontes consultadas
-
-
-
-
-
-
-## Cadastro
-
-<img src="imgs/cadastro.gif">
-
-
-
-
-
-
-
-## Login  
-
-<img src="imgs/login.gif">
-
-
-
-## Inscrições
-
-<img src="imgs/inscricao.gif">  
-
-<img src="imgs/editar.gif">  
-
-<img src="imgs/excluir.gif">  
+  
 
 
 ## ✒ Autor
