@@ -24,7 +24,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
 
 * [Fontes consultadas]()  
 
- *[Autor]()  
+* [Autor]()  
 
  ##  Capa do projeto
 
