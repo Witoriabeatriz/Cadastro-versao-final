@@ -2,7 +2,7 @@
   <img src="imgs/capa1.png" align="center" />
 </a>
 <h1 align="center">🥇 Inscrições para campeonato </h1>
-<p align="center"> Foi desenvolvido por Witória Beatriz Dos Santos durante o segundo trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de programação web i na instituição Marista Escola Social Irmão Acácio
+<p align="center"> Foi desenvolvido por Witória Beatriz Dos Santos durante o segundo trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de programação web i na instituição Marista Escola Social Irmão Acácio.
 <p align="center">
   <a href="https://github.com/Witoriabeatriz/Cadastro-versao-final/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/Witoriabeatriz/Cadastro-versao-final/actions/workflows/pages/pages-build-deployment/badge.svg" alt="pages-build-deployment"></a>
 </p>
@@ -31,9 +31,16 @@
  
 
 ## 📌 Sobre o projeto 
-Este projeto foi criado para solucionar problemas na hora de realizar inscrições em um campeonato, ele permite que você faça seu login ou cadastro, contando com a tecnologia a seu favor automatizando o processo da inserção de dados do seu endereço,  e após isso, que você efetue sua inscrição, mas não se preocupe caso eventualmente cometa algum erro no momento da inscrição, contamos com a possibilidade de edição ou exclução dos dados informados anteriormente 
+Este projeto foi criado para solucionar problemas na hora de realizar inscrições em um campeonato, ele permite que você faça seu login ou cadastro, contando com a tecnologia a seu favor automatizando o processo da inserção de dados do seu endereço,  e após isso, que você efetue sua inscrição, mas não se preocupe caso eventualmente cometa algum erro no momento da inscrição, temos a possibilidade de edição ou exclução dos dados informados anteriormente.
 
 ## 📝 Recursos
+* Cadastro de Usuários
+* Busca de CEP
+* Login de Usuário
+* Tabela de Participantes
+* Estilização com Bootstrap
+* JavaScript para Validação
+* Redirecionamento de Páginas 
 
 ## 🛠️ Composição do projeto 
 ## 1. Cadastro
