@@ -2,7 +2,7 @@
 ## README EM CONSTRUÇÃO     
 
 ## 🥇 Inscrições de campeonato 
-Com base na experiência e conhecimento adquirido na [versão primária](https://witoriabeatriz.github.io/Cadastro-versao-primaria/) deste projeto, em busca da inovação consegui a evoluir e aprimorar o código, fazendo um esquema para solucionar problemas de inscrições para campeonatos de corrida.
+Com base na experiência e conhecimento adquirido na [versão primária](https://witoriabeatriz.github.io/Cadastro-versao-primaria/) deste projeto, em busca da inovação consegui evoluir e aprimorar o código, fazendo um esquema para solucionar problemas de inscrições para campeonatos de corrida.
 
 📈 ÍNDICE
 
