@@ -2,7 +2,8 @@
 ## README EM CONSTRUÇÃO     
 
 ## 🥇 Inscrições de campeonato 
-Com base na experiência e conhecimento adquirido na [versão primária](https://witoriabeatriz.github.io/Cadastro-versao-primaria/) deste projeto, em busca da evolução consegui inovar e aprimorar o código, fazendo um esquema para solucionar problemas de inscrições para campeonatos de corrida.
+Com base na experiência e conhecimento adquirido na [versão primária](https://witoriabeatriz.github.io/Cadastro-versao-primaria/) deste projeto, em busca da evolução consegui inovar e aprimorar o código, fazendo um esquema para solucionar problemas de inscrições para campeonatos de corrida. Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de PROGRAMAÇÃO WEB I ministradas pelo professor [Leonardo Rocha](https://github.com/leonardossrocha)  Na instituição [Marista Escola Social Irmão Acácio](https://github.com/MaristaIrAcacio).
+
 
 📈 ÍNDICE
 
