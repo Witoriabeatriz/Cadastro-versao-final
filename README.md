@@ -14,7 +14,11 @@
   
 * [Recursos](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos)
 
-* [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)
+* [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)  
+* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro)  
+* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login)  
+* [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es)  
+* [Função de editar e excluir](https://github.com/Witoriabeatriz/Cadastro-versao-final#4-fun%C3%A7%C3%A3o-de-editar-e-excluir)
 
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
 
