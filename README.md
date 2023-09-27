@@ -30,6 +30,7 @@ Com base na experiência e conhecimento adquirido na [versão primária](https:/
  <img src="imgs/capa.png">  
 
 ## 📌 Sobre o projeto 
+Este projeto foi criado para solucionar problemas na hora de realizar inscrições em um campeonato, ele permite que você faça seu login ou cadastro, contando com a tecnologia a seu favor automatizando o processo da inserção de dados do seu endereço,  e após isso, que você efetue sua inscrição, mas não se preocupe caso eventualmente cometa algum erro no momento da inscrição, contamos com a possibilidade de edição ou exclução dos dados informados anteriormente 
 
 ## 📝 Recursos
 
