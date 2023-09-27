@@ -10,8 +10,6 @@
 
 📈 ÍNDICE
 
-* [Capa do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-capa-do-projeto)
-
 * [Sobre o projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-projeto)
   
 * [Recursos](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos)
