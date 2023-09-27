@@ -1,5 +1,5 @@
 
-  <img src="imgs/capa.png" align="center" />
+  <img src="imgs/capa1.png" align="center" />
 </a>
 <h1 align="center">🥇 Inscrições para campeonato </h1>
 <p align="center"> Foi desenvolvido por Witória Beatriz Dos Santos durante o segundo trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de programação web i na instituição Marista Escola Social Irmão Acácio
