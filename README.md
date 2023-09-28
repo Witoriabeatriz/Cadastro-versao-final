@@ -49,24 +49,24 @@ Este projeto foi criado para solucionar problemas na hora de realizar inscriçõ
 ## 🛠️ Composição do projeto 
 O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login), [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro) e [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es), com o objetivo de garantir uma implementação eficiente e organizada. Não se preocupe, cada uma dessas etapas possui validação de dados e preenchimento de campos para preservar a segurança dos seus dados."
 
-## 👩🏻‍💻 1.Cadastro 
+## 👩🏻‍💻 Cadastro 
 
 Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer informações como o seu nome, endereço de e-mail, senha, CPF e RG. Quando você inserir seu CEP, automaticamente o bairro, estado e cidade serão preenchidos. Por último, insira o número da sua residência e, se necessário, algum complemento. E pronto, seu cadastro estará completo."  
 
 <img src="imgs/cadastro.gif">  
 
 
-## 2. Login  
+## Login  
 
 Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você estará pronto para realizar sua inscrição."
 
 <img src="imgs/login.gif">  
 
-## 3. Inscrições
+## Inscrições
 
 <img src="imgs/inscricao.gif"> 
 
-## 4. Função de editar e excluir
+## Função de editar e excluir
 <img src="imgs/editar.gif">  
 
 <img src="imgs/excluir.gif">
