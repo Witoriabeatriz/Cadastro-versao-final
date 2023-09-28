@@ -61,7 +61,7 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
   
 ## ✔ Instruções de uso
 
-* 👩🏻‍💻 Cadastro 
+## 👩🏻‍💻 Cadastro 
 
 Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer informações como o seu nome, endereço de e-mail, senha, CPF e RG. Quando você inserir seu CEP, automaticamente o bairro, estado e cidade serão preenchidos. Por último, insira o número da sua residência e, se necessário, algum complemento. E pronto, seu cadastro estará completo."  
 
