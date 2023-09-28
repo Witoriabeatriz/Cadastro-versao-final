@@ -71,7 +71,7 @@ Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer inf
 <img src="imgs/cadastro.gif">  
 
 
-## 🔑🗝️ Login  
+## 🔑 Login  
 
 Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você estará pronto para realizar sua inscrição."
 
