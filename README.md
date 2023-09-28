@@ -49,7 +49,19 @@ Este projeto foi criado para solucionar problemas na hora de realizar inscriçõ
 ## 🛠️ Composição do projeto 
 O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login), [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro) e [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es), com o objetivo de garantir uma implementação eficiente e organizada. Não se preocupe, cada uma dessas etapas possui validação de dados e preenchimento de campos para preservar a segurança dos seus dados."
 
-## 👩🏻‍💻 Cadastro 
+## 🤖 Tecnologias utilizadas  
+- HTML5;
+- CSS;
+- JAVASCRIPT.
+  
+## ⌨ Ferramentas utilizadas  
+- GIT; 
+- GIT HUB;
+- VISUAL STUDIO CODE.
+  
+## ✔ Instruções de uso
+
+## 1. 👩🏻‍💻 Cadastro 
 
 Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer informações como o seu nome, endereço de e-mail, senha, CPF e RG. Quando você inserir seu CEP, automaticamente o bairro, estado e cidade serão preenchidos. Por último, insira o número da sua residência e, se necessário, algum complemento. E pronto, seu cadastro estará completo."  
 
@@ -70,21 +82,6 @@ Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você est
 <img src="imgs/editar.gif">  
 
 <img src="imgs/excluir.gif">
-
-
-
-
-## 🤖 Tecnologias utilizadas  
-- HTML5;
-- CSS;
-- JAVASCRIPT.
-  
-## ⌨ Ferramentas utilizadas  
-- GIT; 
-- GIT HUB;
-- VISUAL STUDIO CODE.
-  
-## ✔ Instruções de uso
 
 ## 👾 Funcionalidades
 
