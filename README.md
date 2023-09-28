@@ -15,10 +15,6 @@
 * [Recursos](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos)
 
 * [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)  
-* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro)  
-* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login)  
-* [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es)  
-* [Função de editar e excluir](https://github.com/Witoriabeatriz/Cadastro-versao-final#4-fun%C3%A7%C3%A3o-de-editar-e-excluir)
 
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
 
@@ -26,7 +22,11 @@
 
 * [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-final#-instru%C3%A7%C3%B5es-de-uso)
   
-* [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final#-funcionalidades)
+* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro)  
+* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login)  
+* [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es)  
+* [Função de editar e excluir](https://github.com/Witoriabeatriz/Cadastro-versao-final#4-fun%C3%A7%C3%A3o-de-editar-e-excluir)
+ [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final#-funcionalidades)
 
 * [Fontes consultadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-fontes-consultadas)  
 
@@ -61,7 +61,7 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
   
 ## ✔ Instruções de uso
 
-## 1. 👩🏻‍💻 Cadastro 
+## 👩🏻‍💻 Cadastro 
 
 Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer informações como o seu nome, endereço de e-mail, senha, CPF e RG. Quando você inserir seu CEP, automaticamente o bairro, estado e cidade serão preenchidos. Por último, insira o número da sua residência e, se necessário, algum complemento. E pronto, seu cadastro estará completo."  
 
