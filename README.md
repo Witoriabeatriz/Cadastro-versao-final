@@ -58,6 +58,8 @@ Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer inf
 
 ## 2. Login  
 
+Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você estará pronto para realizar sua inscrição."
+
 <img src="imgs/login.gif">  
 
 ## 3. Inscrições
