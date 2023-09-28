@@ -60,6 +60,7 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 - VISUAL STUDIO CODE.
   
 ## ✔ Instruções de uso
+1. Abra o (https://witoriabeatriz.github.io/Cadastro-versao-final/)
 
 ## 👩🏻‍💻 Cadastro 
 
