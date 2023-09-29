@@ -18,7 +18,7 @@
 
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
 
-* [Recursos utilizados em javascript]()
+* [Recursos utilizados em javascript](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos-utilizados-em-javascript)
 
 * [Ferramentas utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-ferramentas-utilizadas)
 
@@ -43,7 +43,7 @@
 ## 📌 Sobre o projeto 
 Este projeto foi criado para solucionar problemas na hora de realizar inscrições em um campeonato, ele permite que você faça seu login ou cadastro, contando com a tecnologia a seu favor automatizando o processo da inserção de dados do seu endereço,  e após isso, que você efetue sua inscrição, mas não se preocupe caso eventualmente cometa algum erro no momento da inscrição, temos a possibilidade de edição ou exclução dos dados informados anteriormente.
 
-## 📝 Recursos
+## 📄Recursos
 * Cadastro de Usuários
 * Busca de CEP
 * Login de Usuário
@@ -88,15 +88,17 @@ Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você est
 
 <img src="imgs/login.gif">  
 
-## Inscrições
-
+## 📝 Inscrições
+No momento da
 <img src="imgs/inscricao.gif"> 
 
 ## 👾 Funcionalidades
 
-## Função de editar e excluir
-<img src="imgs/editar.gif">  
+##  Função de editar
+<img src="imgs/editar.gif">   
 
+
+## ❌ Função de excluir
 <img src="imgs/excluir.gif">
 
 
