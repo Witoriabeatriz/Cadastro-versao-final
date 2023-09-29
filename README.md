@@ -75,20 +75,20 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 2. Realize o cadastro ou login  
 3. Faça inscrição 
 
-## 👩🏻‍💻 Cadastro 
+## 👩🏻‍💻 Sobre o cadastro 
 
 Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer informações como o seu nome, endereço de e-mail, senha, CPF e RG. Quando você inserir seu CEP, automaticamente o bairro, estado e cidade serão preenchidos. Por último, insira o número da sua residência e, se necessário, algum complemento. E pronto, seu cadastro estará completo."  
 
 <img src="imgs/cadastro.gif">  
 
 
-## 🔑 Login  
+## 🔑 Sobre o login  
 
 Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você estará pronto para realizar sua inscrição.
 
 <img src="imgs/login.gif">  
 
-## 📝 Inscrições  
+## 📝 Sobre as inscrições  
 Durante a inscrição para o campeonato, é preciso fornecer seu nome, um número da camisa que você utilizará no campeonato, seu CPF para facilitar a identificação, e indicar o gênero com o qual você se identifica.  
 <img src="imgs/inscricao.gif"> 
 
