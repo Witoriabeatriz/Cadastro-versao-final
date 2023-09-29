@@ -22,11 +22,15 @@
 
 * [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-final#-instru%C3%A7%C3%B5es-de-uso)
   
-* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro)  
-* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login)  
+* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro)
+    
+* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login)
+ 
 * [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es)  
-* [Função de editar e excluir](https://github.com/Witoriabeatriz/Cadastro-versao-final#4-fun%C3%A7%C3%A3o-de-editar-e-excluir)  
- * [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final#-funcionalidades)
+
+* [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final#-funcionalidades)  
+    
+* [Função de editar e excluir](https://github.com/Witoriabeatriz/Cadastro-versao-final#4-fun%C3%A7%C3%A3o-de-editar-e-excluir)
 
 * [Fontes consultadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-fontes-consultadas)  
 
@@ -81,12 +85,13 @@ Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você est
 
 <img src="imgs/inscricao.gif"> 
 
+## 👾 Funcionalidades
+
 ## Função de editar e excluir
 <img src="imgs/editar.gif">  
 
 <img src="imgs/excluir.gif">
 
-## 👾 Funcionalidades
 
 ## 🔗 Fontes consultadas
   
