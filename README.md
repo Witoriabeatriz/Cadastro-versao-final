@@ -18,6 +18,8 @@
 
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
 
+* [Recursos utilizados em javascript]()
+
 * [Ferramentas utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-ferramentas-utilizadas)
 
 * [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-final#-instru%C3%A7%C3%B5es-de-uso)
@@ -55,8 +57,13 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 
 ## 🤖 Tecnologias utilizadas  
 - HTML5;
-- CSS3;
+- CSS 3;
 - JAVASCRIPT.
+## 🔔 Recursos utilizados em javascript
+* API
+* ARRAY 
+* ARROW FUCTION
+* LAÇO FOR
   
 ## ⌨ Ferramentas utilizadas  
 - GIT; 
