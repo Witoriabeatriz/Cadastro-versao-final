@@ -55,7 +55,7 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 
 ## 🤖 Tecnologias utilizadas  
 - HTML5;
-- CSS;
+- CSS3;
 - JAVASCRIPT.
   
 ## ⌨ Ferramentas utilizadas  
