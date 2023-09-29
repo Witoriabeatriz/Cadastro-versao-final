@@ -94,7 +94,7 @@ No momento da
 
 ## 👾 Funcionalidades
 
-##  Função de editar
+## 🪄 Função de editar
 <img src="imgs/editar.gif">   
 
 
