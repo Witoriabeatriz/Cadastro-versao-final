@@ -12,8 +12,8 @@
 
 * [Sobre o projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-projeto)
   
-* [Recursos](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos)
-
+* [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final/blob/main/README.md#-funcionalidades)  
+  
 * [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)  
 
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
@@ -42,7 +42,7 @@
 ## 📌 Sobre o projeto 
 Este projeto foi criado para solucionar problemas na hora de realizar inscrições em um campeonato, ele permite que você faça seu login ou cadastro, contando com a tecnologia a seu favor automatizando o processo da inserção de dados do seu endereço,  e após isso, que você efetue sua inscrição, mas não se preocupe caso eventualmente cometa algum erro no momento da inscrição, temos a possibilidade de edição ou exclução dos dados informados anteriormente.
 
-## 📄Recursos
+## 👾 Funcionalidades
 * Cadastro de Usuários
 * Busca de CEP
 * Login de Usuário
@@ -74,35 +74,42 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 2. Realize o cadastro ou login  
 3. Faça inscrição 
 
-## 👩🏻‍💻 Cadastro 
+## 👩🏻‍💻 Sobre o cadastro 
 
 Registrar-se é fácil e rápido, tudo o que você precisa fazer é fornecer informações como o seu nome, endereço de e-mail, senha, CPF e RG. Quando você inserir seu CEP, automaticamente o bairro, estado e cidade serão preenchidos. Por último, insira o número da sua residência e, se necessário, algum complemento. E pronto, seu cadastro estará completo."  
 
 <img src="imgs/cadastro.gif">  
 
 
-## 🔑 Login  
+## 🔑 Sobre o login  
 
 Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você estará pronto para realizar sua inscrição.
 
 <img src="imgs/login.gif">  
 
-## 📝 Inscrições
-No momento da
+## 📝 Sobre as inscrições  
+Durante a inscrição para o campeonato, é preciso fornecer seu nome, um número da camisa que você utilizará no campeonato, seu CPF para facilitar a identificação, e indicar o gênero com o qual você se identifica.
+    
 <img src="imgs/inscricao.gif"> 
 
-## 👾 Funcionalidades
 
-##  Função de editar
+## 🪄 Função de editar  
+  
+Se caso ocorra algum erro no momento da inscrição, não se desespere temos a função para você realizar a edição dos dados inseridos
+
 <img src="imgs/editar.gif">   
 
 
-## ❌ Função de excluir
+## ❌ Função de excluir  
+
+Em casos de desistências, basta localizar sua inscrição, selecionar a opção excluir, e prontinho sua eliminação será realizada com sucesso 
+  
 <img src="imgs/excluir.gif">
 
 
-## 🔗 Fontes consultadas
-  
+## 🔗 Fontes consultadas  
+
+EM BREVE 
 
 
 ## ✒ Autor
