@@ -93,7 +93,9 @@ Durante a inscrição para o campeonato, é preciso fornecer seu nome, um númer
     
 <img src="imgs/inscricao.gif"> 
 
-## 👾 Funcionalidades
+## 👾 Funcionalidades 
+ 
+EM BREVE 
 
 ## 🪄 Função de editar  
   
@@ -109,8 +111,9 @@ Em casos de desistências temos a opção de excluir
 <img src="imgs/excluir.gif">
 
 
-## 🔗 Fontes consultadas
- 
+## 🔗 Fontes consultadas  
+
+EM BREVE 
 
 
 ## ✒ Autor
