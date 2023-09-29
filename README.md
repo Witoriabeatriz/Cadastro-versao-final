@@ -102,7 +102,10 @@ Se caso ocorra algum erro no momento da inscrição, não se desespere temos a f
 <img src="imgs/editar.gif">   
 
 
-## ❌ Função de excluir
+## ❌ Função de excluir  
+
+Em casos de desistências temos a opção de excluir 
+  
 <img src="imgs/excluir.gif">
 
 
