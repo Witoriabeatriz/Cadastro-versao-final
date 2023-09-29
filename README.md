@@ -103,7 +103,7 @@ Se caso ocorra algum erro no momento da inscrição, não se desespere temos a f
 
 ## ❌ Função de excluir  
 
-Em casos de desistências temos a opção de excluir 
+Em casos de desistências, basta localizar sua inscrição, selecionar a opção excluir, e prontinho sua eliminação será realizada com sucesso 
   
 <img src="imgs/excluir.gif">
 
