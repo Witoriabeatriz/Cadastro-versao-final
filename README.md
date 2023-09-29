@@ -89,7 +89,8 @@ Para efetuar o login, basta inserir seu endereço de e-mail e senha, e você est
 <img src="imgs/login.gif">  
 
 ## 📝 Sobre as inscrições  
-Durante a inscrição para o campeonato, é preciso fornecer seu nome, um número da camisa que você utilizará no campeonato, seu CPF para facilitar a identificação, e indicar o gênero com o qual você se identifica.  
+Durante a inscrição para o campeonato, é preciso fornecer seu nome, um número da camisa que você utilizará no campeonato, seu CPF para facilitar a identificação, e indicar o gênero com o qual você se identifica.
+    
 <img src="imgs/inscricao.gif"> 
 
 ## 👾 Funcionalidades
