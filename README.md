@@ -12,7 +12,7 @@
 
 * [Sobre o projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-projeto)
   
-* [Funcionalidades]()  
+* [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final/blob/main/README.md#-funcionalidades)  
   
 * [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)  
 
