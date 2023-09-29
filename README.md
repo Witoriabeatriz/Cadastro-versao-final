@@ -95,7 +95,10 @@ Durante a inscrição para o campeonato, é preciso fornecer seu nome, um númer
 
 ## 👾 Funcionalidades
 
-## 🪄 Função de editar
+## 🪄 Função de editar  
+  
+Se caso ocorra algum erro no momento da inscrição, não se desespere temos a função para você realizar a edição dos dados inseridos
+
 <img src="imgs/editar.gif">   
 
 
@@ -104,7 +107,7 @@ Durante a inscrição para o campeonato, é preciso fornecer seu nome, um númer
 
 
 ## 🔗 Fontes consultadas
-  
+ 
 
 
 ## ✒ Autor
