@@ -12,8 +12,8 @@
 
 * [Sobre o projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-projeto)
   
-* [Recursos](https://github.com/Witoriabeatriz/Cadastro-versao-final#-recursos)
-
+* [Funcionalidades]()  
+  
 * [Composição do projeto](https://github.com/Witoriabeatriz/Cadastro-versao-final#%EF%B8%8F-composi%C3%A7%C3%A3o-do-projeto)  
 
 * [Tecnologias utilizadas](https://github.com/Witoriabeatriz/Cadastro-versao-final#-tecnologias-utilizadas)
@@ -43,7 +43,7 @@
 ## 📌 Sobre o projeto 
 Este projeto foi criado para solucionar problemas na hora de realizar inscrições em um campeonato, ele permite que você faça seu login ou cadastro, contando com a tecnologia a seu favor automatizando o processo da inserção de dados do seu endereço,  e após isso, que você efetue sua inscrição, mas não se preocupe caso eventualmente cometa algum erro no momento da inscrição, temos a possibilidade de edição ou exclução dos dados informados anteriormente.
 
-## 📄Recursos
+## 👾 Funcionalidades
 * Cadastro de Usuários
 * Busca de CEP
 * Login de Usuário
@@ -93,9 +93,6 @@ Durante a inscrição para o campeonato, é preciso fornecer seu nome, um númer
     
 <img src="imgs/inscricao.gif"> 
 
-## 👾 Funcionalidades 
- 
-EM BREVE 
 
 ## 🪄 Função de editar  
   
