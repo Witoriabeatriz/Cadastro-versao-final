@@ -108,11 +108,26 @@ Em casos de desistências, basta localizar sua inscrição, selecionar a opção
   
   
 ## 🔗 Fontes consultadas  
- EM CONSTRUÇÃO  
-* []() - Como centralizar imagem  
-* []() - oque é  
+ 
+* [github.com](https://docs.github.com/pt/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) - Adicionar um selo de status de fluxo de trabalho
+  
+* [github.com](https://github.com/orgs/community/discussions/36110) - Como adicionar um crachá de implantação para páginas GH?
 
+* [shields.io](https://shields.io/) - Selos dinâmicos
 
+* [npmjs.com](https://www.npmjs.com/package/badge-maker) - Criador de crachás
 
+* [site24x7.com](https://www.site24x7.com/pt/tools/seletor-de-codigo-cor.html) - Seletor de códico de cor
+
+* [Chat gpt](https://chat.openai.com/) - Como fazer um bom README
+  
+* [GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Sintaxe básica de gravação e formatação no GitHub
+  
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+   
+* [Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github) - Como inserir imagem no README     
+
+* [Medium.com](https://medium.com/@afonsopacifer/pensando-em-urls-no-github-3517d97249d0) - Pensando em URLs no Github
+     
 ## ✒ Autor
 Este projeto foi criado por [Witória Beatriz Dos Santos](https://github.com/Witoriabeatriz).
