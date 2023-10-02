@@ -117,6 +117,8 @@ Em casos de desistências, basta localizar sua inscrição, selecionar a opção
 
 * [npmjs.com](https://www.npmjs.com/package/badge-maker) - Criador de crachás
 
+* [adobe.com](https://color.adobe.com/pt/create/color-wheel) - Roda de cores
+
 * [site24x7.com](https://www.site24x7.com/pt/tools/seletor-de-codigo-cor.html) - Seletor de códico de cor
 
 * [Chat gpt](https://chat.openai.com/) - Como fazer um bom README
