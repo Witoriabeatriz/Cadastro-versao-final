@@ -1,10 +1,6 @@
 body {
     background: #003664;
 }
-
-.container {
-    background: #003664;
-}
 th, td{
     color: #003664;
 }
@@ -39,9 +35,6 @@ h1{
     font-weight: 600; 
     line-height: 2;
 }
-
-
-
 input{
     background-color: white;
 }
@@ -55,4 +48,13 @@ label{
         font-size: 20px;
         font-weight: 600;
         line-height: 1.5;
+}
+img {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+.imagem {
+    background-color: #003664;
 }
