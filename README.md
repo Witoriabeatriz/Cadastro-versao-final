@@ -52,7 +52,7 @@ Este projeto foi criado para solucionar problemas na hora de realizar inscriçõ
 * Redirecionamento de Páginas
 
 ## 🛠️ Composição do projeto 
-O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login), [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro) e [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es), com o objetivo de garantir uma implementação eficiente e organizada. Não se preocupe, cada uma dessas etapas possui validação de dados e preenchimento de campos para preservar a segurança dos seus dados."
+O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-login), [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-cadastro) e [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-as-inscri%C3%A7%C3%B5es), com o objetivo de garantir uma implementação eficiente e organizada. Não se preocupe, cada uma dessas etapas possui validação de dados e preenchimento de campos para preservar a segurança dos seus dados."
 
 ## 🤖 Tecnologias utilizadas  
 - HTML
