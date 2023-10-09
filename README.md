@@ -24,11 +24,11 @@
 
 * [Instruções de uso](https://github.com/Witoriabeatriz/Cadastro-versao-final#-instru%C3%A7%C3%B5es-de-uso)
   
-* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#1-cadastro)
+* [Cadastro](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-cadastro)
     
-* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#2-login)
+* [Login](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-o-login)
  
-* [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#3-inscri%C3%A7%C3%B5es)  
+* [Inscrições](https://github.com/Witoriabeatriz/Cadastro-versao-final#-sobre-as-inscri%C3%A7%C3%B5es)  
 
 * [Funcionalidades](https://github.com/Witoriabeatriz/Cadastro-versao-final#-funcionalidades)  
     
