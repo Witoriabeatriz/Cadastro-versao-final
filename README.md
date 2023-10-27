@@ -63,6 +63,11 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 * ARRAY
 * ARROW FUCTION
 * LAÇO FOR
+* JSON
+* VARIAVEIS
+* FETCH
+* THEN
+* CATCH
   
 ## ⌨ Ferramentas utilizadas  
 - GIT
