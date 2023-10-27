@@ -59,16 +59,6 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 - CSS 3
 - JAVASCRIPT
 ## 🔔 Recursos utilizados em javascript
-* API
-* ARRAY
-* ARROW FUCTION
-* LAÇO FOR
-* JSON
-* VARIAVEIS
-* FETCH
-* THEN
-* CATCH
-* CONSOLE.ERROR
 
 1. **API (Interface de Programação de Aplicativos)**: Define regras para a comunicação entre diferentes softwares.
 
