@@ -68,6 +68,7 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 * FETCH
 * THEN
 * CATCH
+* CONSOLE.ERROR
   
 ## ⌨ Ferramentas utilizadas  
 - GIT
