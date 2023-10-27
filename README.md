@@ -69,6 +69,27 @@ O projeto foi segmentado em três fases: [Login](https://github.com/Witoriabeatr
 * THEN
 * CATCH
 * CONSOLE.ERROR
+
+1. **API (Interface de Programação de Aplicativos)**: Define regras para a comunicação entre diferentes softwares.
+
+2. **ARRAY**: Uma coleção de elementos que podem ser acessados por índices numéricos.
+
+3. **ARROW FUNCTION**: Uma forma concisa de definir funções em JavaScript.
+
+4. **LAÇO FOR**: Uma estrutura de controle para executar um bloco de código repetidamente.
+
+5. **JSON (JavaScript Object Notation)**: Um formato de dados usado para representar informações estruturadas.
+
+6. **VARIÁVEIS**: Espaços de memória para armazenar dados.
+
+7. **FETCH**: Uma função para fazer requisições de rede em JavaScript.
+
+8. **THEN**: Usado para lidar com o sucesso de operações assíncronas (ações ou tarefas que não são executadas sequencialmente no fluxo de um programa) como Promises (
+um padrão em programação assíncrona que foi introduzido em JavaScript para lidar de forma mais eficiente com operações que levam tempo para serem concluídas).
+
+9. **CATCH**: Usado para tratar erros em operações assíncronas, como Promises.
+
+10. **CONSOLE.ERROR**: Função para imprimir mensagens de erro no console, útil para depuração.
   
 ## ⌨ Ferramentas utilizadas  
 - GIT
